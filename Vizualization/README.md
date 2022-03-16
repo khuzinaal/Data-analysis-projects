@@ -11,4 +11,4 @@
 Анализ открытых данных о заведениях общественного питания в Москве
 
 # Используемые библиотеки
-pandas, seaborn, plotly, io, requests
+pandas, matplotlib, seaborn, plotly, io, requests
