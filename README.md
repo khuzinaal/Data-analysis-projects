@@ -1,2 +1,4 @@
 # Data-analysis-projects
-Here are my data analysis projects
+В этом репозитории находятся мои проекты по анализу данных.
+Здесь 3 папки:
+* 
