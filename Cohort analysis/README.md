@@ -27,4 +27,4 @@
 
 
 # Используемые библиотеки
-pandas, matplotlib
+pandas, matplotlib, numpy
